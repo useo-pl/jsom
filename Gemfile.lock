@@ -47,7 +47,7 @@ DEPENDENCIES
   jsom!
   rake (~> 10.0)
   rspec (~> 3.0)
-  rubocop (~> 0.0)
+  rubocop (~> 0.77)
   rubocop-performance (~> 1.0)
 
 BUNDLED WITH
