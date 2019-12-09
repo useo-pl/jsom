@@ -1,4 +1,6 @@
-require "jsom/version"
+# frozen_string_literal: true
+
+require 'jsom/version'
 
 module JSOM
   class Error < StandardError; end
